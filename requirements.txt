@@ -1,0 +1,7 @@
+langchain
+langgraph
+chromadb
+sentence-transformers
+pypdf
+openai
+tqdm
